@@ -1,0 +1,23 @@
+Objective:
+This program will allow 1-2 players play blackjack together.
+Import random function
+I will start by asking how many players are playing.
+Create 2 if functions for each number of players
+Give each player a random number from 1-11, and display a random number that the dealer has
+Ask each player if they want to hit or stand
+if the player hits, they get a new random number, and the question is asked again
+if the player chooses to stand, their turn is over
+
+Psedocode:
+#set keepPlaying to True
+#While keepPlaying is True:
+    #import random function
+    #Set all players numbers to 0
+    #Ask player to input how many players are playing(1-2)
+    #Create an if statement for the amount of players
+        #then set the variable numPlayers = onePlayers, twoPlayers, etc.
+    #Create six if statements for each numPlayers value
+        #For each if statement, give the player a number and prompt the player to either input hit or stand
+        
+    
+    
